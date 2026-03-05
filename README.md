@@ -17,7 +17,7 @@ The system uses an ESP32 microcontroller and a PN532 NFC module to detect NFC ca
 - ESP32
 - PN532 NFC Module
 - I2C LCD Display
-- RGB LED
+- Red LED
 - Buzzer
 - Jumper Wires
 - Breadboard
